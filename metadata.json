@@ -1,0 +1,7 @@
+{
+  "name": "FrameLink",
+  "description": "An application for businesses and event organisers to create branded visual experiences. Users can set up a brand template with a logo, colors, and a frame overlay. Event guests can then capture or upload photos, automatically apply the branding, and download the final image.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
